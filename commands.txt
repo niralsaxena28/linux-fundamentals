@@ -1,0 +1,6 @@
+==================== Favorite Commands ====================
+1. ls   - lists files in a directory
+2. pwd  - shows the current working directory
+3. cat  - displays file content
+4. nano - opens a text editor
+5. zip  - compresses files into a zip archive

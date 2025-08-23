@@ -1,0 +1,7 @@
+==================== Command Log ====================
+123  ls --version
+124  nano --version
+125  zip -v
+126  git --version
+127  history | tail -5 > log.txt
+
